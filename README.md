@@ -1,7 +1,7 @@
 # Project City of Peaks (Sept. 2015 - Sept 2016)
 
 ## Summary
-A dynamically animated, interactive, 3D, temporal, and geographical data viz. of the daily energy peaks of buildings in the Northeastern campus.
+A dynamically animated, interactive, 3D, temporal, and geographical data visualization of the daily energy peaks of buildings in the Northeastern campus.
 
 ## Screenshots
 <img src="" />

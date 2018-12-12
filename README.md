@@ -5,9 +5,12 @@ A dynamically animated, interactive, 3D, temporal, and geographical data visuali
 
 ## Screenshots
 
+### App
+<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/screenshots/app-1.png" />
+
 ### Heatmap of Energy Usage (Range: 2013 - 2014)
-<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/peakmap.png" />
-<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/app-1.png" />
+<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/screenshots/peaks-plot.png" />
+
 
 ### 
 

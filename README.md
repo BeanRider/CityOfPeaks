@@ -4,7 +4,12 @@
 A dynamically animated, interactive, 3D, temporal, and geographical data visualization of the daily energy peaks of buildings in the Northeastern campus.
 
 ## Screenshots
-<img src="" />
+
+### Heatmap of Energy Usage (Range: 2013 - 2014)
+<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/peakmap.png" />
+<img src="https://raw.githubusercontent.com/BeanRider/CityOfPeaks/master/app-1.png" />
+
+### 
 
 ## Video Demo
 [![City of Peaks Demo Video](https://img.youtube.com/vi/O27mHm7zIr4/0.jpg)](https://www.youtube.com/watch?v=O27mHm7zIr4)

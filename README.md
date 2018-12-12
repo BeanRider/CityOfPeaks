@@ -1,7 +1,13 @@
-# Project City of Peaks (Sept. 2015 - Sept 2016)
+# City of Peaks (Sept. 2015 - Sept 2016)
 
 ## Summary
+A data visualization project for Northeastern Energy Flows research group. Exhibited at the university gallery, Gallery360, in 2016.
 A dynamically animated, interactive, 3D, temporal, and geographical data visualization of the daily energy peaks of buildings in the Northeastern campus.
+
+### Links
+Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/<br />
+Northeastern University Press: http://www.northeastern.edu/news/2016/08/energy-flow/<br />
+Northeastern University CAMD: http://www.northeastern.edu/art/northeastern-energy-flow/
 
 ## Screenshots
 
@@ -16,11 +22,6 @@ A dynamically animated, interactive, 3D, temporal, and geographical data visuali
 
 ## Video Demo
 [![City of Peaks Demo Video](https://img.youtube.com/vi/O27mHm7zIr4/0.jpg)](https://www.youtube.com/watch?v=O27mHm7zIr4)
-
-## Links
-Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/<br />
-Northeastern University Press: http://www.northeastern.edu/news/2016/08/energy-flow/<br />
-Northeastern University CAMD: http://www.northeastern.edu/art/northeastern-energy-flow/
 
 ## Team Credits
 Principal Investigator: Kristian Kloeckl<br />

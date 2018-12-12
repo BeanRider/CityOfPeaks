@@ -1,8 +1,12 @@
 # City of Peaks (Sept. 2015 - Sept 2016)
 
 ## Summary
-A data visualization project for Northeastern Energy Flows research group. Exhibited at the university gallery, Gallery360, in 2016.
-A dynamically animated, interactive, 3D, temporal, and geographical data visualization of the daily energy peaks of buildings in the Northeastern campus.
+A data visualization project for Northeastern Energy Flows research group.
+
+This is a 3D interactive data visualization that protrays energy usage of buildings in the Northeastern campus.
+
+Featured exhibition at the university gallery, Gallery360, in 2016.
+
 
 ### Links
 Gallery360 Exhibition Details: http://www.informationinaction.com/exhibition-northeastern-energy-flows-at-gallery-360/<br />
